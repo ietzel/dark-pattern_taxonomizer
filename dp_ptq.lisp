@@ -1,1 +1,1 @@
-(write (+ 7 9 11))
+(format t "The dark patterns you aren't wary of are not your dark pattern personality type.")
