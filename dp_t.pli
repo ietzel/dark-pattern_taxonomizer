@@ -1,0 +1,39 @@
+DP_T: proc options (main);
+  put skip list("The dark patterns you aren't wary of are not your dark pattern personality type.");
+  put skip list("Nagged: Redirects users to expected functionality.");
+  put skip list("");
+  put skip list("");
+  put skip list("");
+  put skip list("");
+  put skip list("");
+  put skip list("");
+  put skip list("");
+  put skip list("");
+  put skip list("");
+  put skip list("");
+  put skip list("");
+  put skip list("");
+  put skip list("");
+  put skip list("");
+  put skip list("");
+  put skip list("");
+  put skip list("");
+end DP_T;
+"")
+"")
+"Obstructed: Makes it difficult for users to interact.
+"Sneaked: Hides or delays useful information.
+"Interface-interfered: Manipulates the user interface to emphasize certain aspects.
+"Forced-actioned: Requires users to perform an action to access functionality.
+"Overloaded: Presents a large amount of information to prompt users to share more data.
+"Stirred: Uses visual nudges or appeals to users' emotions to affect their choices.
+"Hindered: Makes it difficult or impossible for users to manage their data or learn about their privacy options.
+"Fickled: Inconsistent or unclear design that makes it difficult for users to understand the purpose of data processing or navigate data protection control tools.
+"Left in the dark: Hides data protection control tools or information, or leaves users unsure of how their data is processed.
+"De facto forced: Forces users to take an action to perform another action. 
+"Obstacled: Dissuades users from taking certain actions using obstacles.
+others include:
+7 chakra targeting
+qualia that stiffen spines
+black & green euler spirals
+x^2 + 4 geometry, or otherwise followings of the numeric sequence
